@@ -1,0 +1,9 @@
+{
+  "name": "Font Resizer in Editor",
+  "description": "Fügt im Karteneditor Buttons hinzu, um markierten Text zu vergrößern oder zu verkleinern.",
+  "author": "Jan Jähne",
+  "version": "1.0.0",
+  "min_point_version": 50,
+  "max_point_version": 99,
+  "mod": 0
+}
