@@ -7,11 +7,15 @@ This Anki-add-on allows to adjust the text size on the front and back of each ca
 To test this add-on just copy the files into `C:\Users\home\AppData\Roaming\Anki2\addons21\anki_font_resizer`. Start Anki, add the add-on, if you don't have it already added and open the card management view.
 
 ## Contribution
+
+Contributions are welcome!  
+To submit a Pull Request:
 1. Fork this repository
 2. Create a new branch (`git checkout -b feature/my-change`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to your fork (`git push origin feature/my-change`)
-5. Open a Merge Request
+4. Commit and push your changes
+5. Open a Pull Request
+
+Please include a short description of what you changed and why.
 
 ## Developstate
 
